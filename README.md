@@ -1,5 +1,9 @@
 ## 그레이스케일 BMP 이미지 mem 파일 변환 소프트 웨어
 
+[face.bmp](https://github.com/user-attachments/files/22036527/face.bmp)
+
+[face_grayscale.bmp](https://github.com/user-attachments/files/22036524/face_grayscale.bmp)
+
 
 ### 문서 관리 정보
 - 문서 ID: BMP-DO178C-001
