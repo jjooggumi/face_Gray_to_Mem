@@ -1,0 +1,6 @@
+﻿  face_GraytoMEM.cpp
+C:\Users\47\source\repos\face_GraytoMEM\face_GraytoMEM\face_GraytoMEM.cpp(159,30): warning C4838: 'int'에서 'uint8_t'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\47\source\repos\face_GraytoMEM\face_GraytoMEM\face_GraytoMEM.cpp(159,33): warning C4838: 'int'에서 'uint8_t'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\47\source\repos\face_GraytoMEM\face_GraytoMEM\face_GraytoMEM.cpp(159,36): warning C4838: 'int'에서 'uint8_t'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\47\source\repos\face_GraytoMEM\face_GraytoMEM\face_GraytoMEM.cpp(204,12): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'FILE *'입니다.
+  face_GraytoMEM.vcxproj -> C:\Users\47\source\repos\face_GraytoMEM\x64\Debug\face_GraytoMEM.exe
